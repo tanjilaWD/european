@@ -64,7 +64,9 @@
 }
 .header-section li a{
     color: black;
-    
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 
