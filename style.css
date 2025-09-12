@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:"Open Sans", sans-serif;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
