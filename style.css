@@ -15,4 +15,30 @@
     background-color:#173a69;
     padding: 8px 0px;
 }
+.top-header .main-column{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.top-header .right-column{
+    text-align: right;
+}
+.top-header .left-column a{
+    color:#fff;
+    font-size:13px ;
+    text-decoration: none;
+}
+.top-header .right-column a{
+    color:#fff;
+    font-size:13px ;
 
+}
+.top-header .left-column .phone{
+    padding-right: 20px;
+}
+.top-header .left-column i{
+    padding-right:20px ;
+}
+.top-header .fa-twitter{
+    padding: 0px 15px;
+
+}
