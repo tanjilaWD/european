@@ -40,5 +40,20 @@
 .top-header .right-column .icon{
     padding: 0px 15px;
 }
-
+ /* ----------------------------
+         Header-section
+------------------------------*/
+.header-section .main-column{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+.header-section .right-column ul li {
+    list-style: none;
+}
+.header-section .right-column a{
+    text-decoration: none;
+}
+.header-section .right-column{
+    text-align: right;
+}
 
