@@ -46,6 +46,8 @@
 .header-section .main-column{
     display: grid;
     grid-template-columns: 1fr 5fr;
+    align-items: center;
+    padding: 12px 8px 0 0;
 }
 .header-section .right-column ul li {
     list-style: none;
@@ -56,4 +58,13 @@
 .header-section .right-column{
     text-align: right;
 }
+.header-section li{
+    display: inline-block;
+    padding-right: 45px;
+}
+.header-section li a{
+    color: black;
+    
+}
+
 
