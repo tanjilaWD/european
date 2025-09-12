@@ -8,3 +8,11 @@
     max-width: 1140px;
     margin: 0 auto;
 }
+ /* ----------------------------
+         top-header
+------------------------------*/
+.top-header{
+    background-color:#173a69;
+    padding: 8px 0px;
+}
+
