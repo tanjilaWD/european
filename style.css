@@ -30,7 +30,6 @@
 .top-header .right-column a{
     color:#fff;
     font-size:13px ;
-
 }
 .top-header .left-column .phone{
     padding-right: 20px;
@@ -38,7 +37,8 @@
 .top-header .left-column i{
     padding-right:20px ;
 }
-.top-header .fa-twitter{
+.top-header .right-column .icon{
     padding: 0px 15px;
-
 }
+
+
