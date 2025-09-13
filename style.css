@@ -223,4 +223,8 @@
 .cpyright-section .main-column p{
     color: #fff;
     font-size:15px ;
+    text-align: center;
+}
+.cpyright-section .main-column p span{
+    font-weight: bold;
 }
