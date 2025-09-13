@@ -67,6 +67,16 @@
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
+    position: relative;
+}
+.header-section li:last-child{
+    padding-right: 0px;
+}
+* ----------------------------
+         Banner-section
+------------------------------*/
+.banner-section img{
+    width: 100%;
 }
 
 
