@@ -166,3 +166,12 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
 }
+.gallery-section .btn{
+    padding: 8px 18px;
+    border: none;
+    color:#f0f0f0 ;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #173a69;
+    text-transform: uppercase;
+}
