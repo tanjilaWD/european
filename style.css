@@ -164,7 +164,8 @@
 .gallery-section .main-column{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
+    column-gap: 30px;
+    row-gap: 0px;
 }
 .gallery-section .btn{
     padding: 8px 18px;
