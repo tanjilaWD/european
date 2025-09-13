@@ -128,4 +128,20 @@
     display: grid;
     grid-template-columns:1fr 1fr ;
 }
+.about-section .right-column h2{
+    color:#000000;
+    font-size:28px;
+    font-weight: bold;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+.about-section .right-column img{
+    padding: 20px 0;
+}
+.about-section .right-column p{
+    font-size:15px;
+    color: #747373;
+    font-weight:300;
+    line-height: 25px;
+}
 
