@@ -48,6 +48,7 @@
     grid-template-columns: 1fr 5fr;
     align-items: center;
     padding: 12px 8px 0 0;
+    margin-bottom: 5px;
 }
 .header-section .right-column ul li {
     list-style: none;
@@ -92,6 +93,9 @@
 .banner-section img{
     width: 100%;
 }
+/* ----------------------------
+         Service-section
+------------------------------*/
 
  
 
