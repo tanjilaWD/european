@@ -176,3 +176,20 @@
     background-color: #173a69;
     text-transform: uppercase;
 }
+/* ----------------------------
+         Get-section
+------------------------------*/
+.get-section{
+    background-color: #173a69;
+    padding: 60px 0;
+    text-align:center;
+}
+.get-section .main-column p{
+    color: #f0f0f0;
+    font-size: 25px;
+    font-weight: 400;
+}
+.get-section .main-column span{
+    font-size: 30px;
+    font-weight: bold;
+}
