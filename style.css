@@ -201,7 +201,12 @@
     margin: 60px 0;
 }
 .footer-section .social-icon{
+    display: flex;
     align-items: center;
+    justify-content: center;
+}
+.footer-section .social-icon a{
+    text-decoration: none;
 }
 .footer-section .social-icon i{
     width:48px;
@@ -212,6 +217,10 @@
     font-size:20px;
     text-decoration:none;
     transition:all .3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
 }
 /* ----------------------------
          copyright-section
