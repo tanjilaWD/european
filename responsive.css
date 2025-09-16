@@ -12,4 +12,20 @@
 .header-section .left-column img{
     padding-left: 20px;
 }
+.about-section .left-column{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.gallery-section .main-column img{
+    width: 90%;
+    margin: 0 auto;
+}
+.gallery-section .main-column{
+    column-gap:0px;
+}
+}
+/* mobile device up to 425px*/
+@media screen and (max-width:640px) {
+    
+    
 }
