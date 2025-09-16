@@ -26,6 +26,11 @@
 }
 /* mobile device up to 425px*/
 @media screen and (max-width:640px) {
-    
+    .about-section .main-column{
+    grid-template-columns:1fr;
+}
+.about-section{
+    text-align: center;
+}
     
 }
