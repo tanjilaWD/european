@@ -1,0 +1,15 @@
+/* tablet device */
+@media screen and (max-width:1024px) {
+ .top-header .right-column {
+    padding-right: 40px;
+ }   
+ .top-header .left-column {
+    padding-left: 20px;
+ }   
+.header-section li a{
+   padding-right: 20px;
+}
+.header-section .left-column img{
+    padding-left: 20px;
+}
+}
